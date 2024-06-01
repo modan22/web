@@ -1,0 +1,13 @@
+project/
+|─ css/
+|   ├─ main.css
+|   ├─ typography.css
+|   ├─ layout.css
+|   └─ components.css
+|─ imgs/
+|   ├─ 1.jpg
+|   ├─ 2.jpg
+|   └─ 3.jpg
+|─ pages/
+|   └─ blog-post.html
+|─ index.html
